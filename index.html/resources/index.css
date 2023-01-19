@@ -1,0 +1,39 @@
+/******This is the beginning of css page//////////////**********/
+
+h1 {
+    text-align: center;
+    font-family: helvetiva;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(./dasmobanner.jpeg);
+}
+
+h2#brush {
+    background-color: mediumspringgreen;
+    font-weight: bold;
+    color: white;
+    font-size: 32px;
+    font-family: Helvetica;
+}
+
+span.price {
+    font-family: helvetica;
+    color: blue;
+    font-weight: bold;
+}
+
+h2#frame {
+    background-color: lightcoral;
+    font-weight: bold;
+    color: white;
+    font-family: Helvetica;
+    font-size: 32px;
+}
+
+h2#paint {
+    background-color: skyblue;
+    font-weight: bold;
+    color: white;
+    font-family: helvetica;
+}
